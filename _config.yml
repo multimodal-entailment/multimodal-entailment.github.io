@@ -10,7 +10,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://multimodal-entailment.github.io/"
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-leap-day
 
 markdown: kramdown
 
